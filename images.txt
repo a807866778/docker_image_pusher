@@ -9,3 +9,4 @@ dockerproxy.com/library/alpine:3.18.2
 xiaoyaliu/alist:latest
 haroldli/xiaoya-tvbox:latest
 hectorqin/reader:latest
+fooololo/aipan-netdisk-search:latest
